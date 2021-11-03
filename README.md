@@ -25,21 +25,21 @@
 
 ![](https://github.com/dvaisluk/threaded_server-PY/raw/main/png/7.png)
 
-1. Пауза (остановка прослушивание порта);
+2. Пауза (остановка прослушивание порта);
 
 ![](https://github.com/dvaisluk/threaded_server-PY/raw/main/png/8.png)
 ![](https://github.com/dvaisluk/threaded_server-PY/raw/main/png/9.png)
 ![](https://github.com/dvaisluk/threaded_server-PY/raw/main/png/10.png)
 
-1. Показ логов;
+3. Показ логов;
 
 ![](https://github.com/dvaisluk/threaded_server-PY/raw/main/png/11.png)
 
-1. Очистка логов;
+4. Очистка логов;
 
 ![](https://github.com/dvaisluk/threaded_server-PY/raw/main/png/12.png)
 
-1. Очистка файла идентификации.
+5. Очистка файла идентификации.
 
 ![](https://github.com/dvaisluk/threaded_server-PY/raw/main/png/13.png)
 ![](https://github.com/dvaisluk/threaded_server-PY/raw/main/png/14.png)
