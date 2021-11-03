@@ -8,55 +8,39 @@
 
 1. Модифицировать простой эхо-сервер таким образом, чтобы при подключении клиента создавался новый поток, в котором происходило взаимодействие с ним.
 
-![Изображение выглядит как текст
-
-Автоматически созданное описание](Aspose.Words.4a5d789b-5c0c-46c0-bbd7-693ff1c7c01e.001.png)
+![](https://github.com/dvaisluk/threaded_server-PY/raw/main/1.png)
 
 2. Реализовать простой чат сервер на базе сервера аутентификации. Сервер должен обеспечивать подключение многих пользователей одновременно, отслеживание имен пользователей, поддерживать историю сообщений и пересылку сообщений от каждого пользователя всем остальным.
 
-![Изображение выглядит как текст
-
-Автоматически созданное описание](Aspose.Words.4a5d789b-5c0c-46c0-bbd7-693ff1c7c01e.002.png)![Изображение выглядит как текст
-
-Автоматически созданное описание](Aspose.Words.4a5d789b-5c0c-46c0-bbd7-693ff1c7c01e.003.png)![Изображение выглядит как текст
-
-Автоматически созданное описание](Aspose.Words.4a5d789b-5c0c-46c0-bbd7-693ff1c7c01e.004.png)  
+![](https://github.com/dvaisluk/threaded_server-PY/raw/main/2.png)
+![](https://github.com/dvaisluk/threaded_server-PY/raw/main/3.png)
+![](https://github.com/dvaisluk/threaded_server-PY/raw/main/4.png)
 
 2. Реализовать сервер с управляющим потоком. При создании сервера прослушивание портов происходит в отдельном потоке, а главный поток программы в это время способен принимать команды от пользователя. Необходимо реализовать следующие команды:
-
-![](Aspose.Words.4a5d789b-5c0c-46c0-bbd7-693ff1c7c01e.005.png)
-
-![](Aspose.Words.4a5d789b-5c0c-46c0-bbd7-693ff1c7c01e.006.png)
+3. 
+![](https://github.com/dvaisluk/threaded_server-PY/raw/main/5.png)
+![](https://github.com/dvaisluk/threaded_server-PY/raw/main/6.png)
 
 1. Отключение сервера (завершение программы);
 
-![](Aspose.Words.4a5d789b-5c0c-46c0-bbd7-693ff1c7c01e.007.png)
+![](https://github.com/dvaisluk/threaded_server-PY/raw/main/7.png)
 
 1. Пауза (остановка прослушивание порта);
 
-![Изображение выглядит как текст
-
-Автоматически созданное описание](Aspose.Words.4a5d789b-5c0c-46c0-bbd7-693ff1c7c01e.008.png)
-
-` `![](Aspose.Words.4a5d789b-5c0c-46c0-bbd7-693ff1c7c01e.009.png) ![Изображение выглядит как текст
-
-Автоматически созданное описание](Aspose.Words.4a5d789b-5c0c-46c0-bbd7-693ff1c7c01e.010.png)
+![](https://github.com/dvaisluk/threaded_server-PY/raw/main/8.png)
+![](https://github.com/dvaisluk/threaded_server-PY/raw/main/9.png)
+![](https://github.com/dvaisluk/threaded_server-PY/raw/main/10.png)
 
 1. Показ логов;
 
-![](Aspose.Words.4a5d789b-5c0c-46c0-bbd7-693ff1c7c01e.011.png)
+![](https://github.com/dvaisluk/threaded_server-PY/raw/main/11.png)
 
 1. Очистка логов;
 
-![](Aspose.Words.4a5d789b-5c0c-46c0-bbd7-693ff1c7c01e.012.png)
+![](https://github.com/dvaisluk/threaded_server-PY/raw/main/12.png)
 
 1. Очистка файла идентификации.
 
-![Изображение выглядит как текст
-
-Автоматически созданное описание](Aspose.Words.4a5d789b-5c0c-46c0-bbd7-693ff1c7c01e.013.png)
-
-![Изображение выглядит как текст
-
-Автоматически созданное описание](Aspose.Words.4a5d789b-5c0c-46c0-bbd7-693ff1c7c01e.014.png)
+![](https://github.com/dvaisluk/threaded_server-PY/raw/main/13.png)
+![](https://github.com/dvaisluk/threaded_server-PY/raw/main/14.png)
 
